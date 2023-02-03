@@ -1,4 +1,3 @@
-The is web app to track Corona virus cases around the world. 
 
 This web app is based on ReactJS - Redux - Material UI - Mapbox - Recharts.
 
